@@ -1,0 +1,39 @@
+{
+    "name" : {
+        "message" : "sUpper",
+        "description" : "non"
+    },
+
+    "description" : {
+        "message" : "アイコンをクリックしてスクロールバーを強制的にトップへ移動させます。",
+        "description" : "マニフェストファイルのchrome拡張概要に該当します。"
+    },
+
+    "auther" : {
+        "message" : "Created By $YOUR_NAME$ from Iridium",
+        "description" : "開発者の名前を定義します",
+        "placeholders" : {
+            "your_name" : {
+                "content" : "$1",
+                "example" : "kterase"
+            }
+        }
+    },
+
+    "licenses" : {
+        "message" : "このソフトウェアは$LICENSE_TYPE$ライセンス形式です",
+        "description" : "コンピュータのソフトウェアについて、ソフトウェア利用者が遵守すべき事項を記載した文書で使用形式を宣言します。",
+        "placeholders" : {
+            "license_type" : {
+                "content" : "$1",
+                "example" : "MIT"
+            }
+        }
+    },
+
+    "iridium" : {
+        "message" : "Cast in the name a God. Yet not guilty. We have come to team Iridum!",
+        "description" : "キャッチフレーズ"
+    }
+}
+

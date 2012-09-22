@@ -1,0 +1,39 @@
+{
+    "name" : {
+        "message" : "sUpper",
+        "description" : "Extension name in manifest."
+    },
+
+    "description" : {
+        "message" : "Move to the top to force the scroll bar by clicking on the icon.",
+        "description" : "Extension name in manifest."
+    },
+
+    "auther" : {
+        "message" : "Created By $YOUR_NAME$ from Iridium",
+        "description" : "Auther is your name",
+        "placeholders" : {
+            "your_name" : {
+                "content" : "$1",
+                "example" : "kterase"
+            }
+        }
+    },
+
+    "licenses" : {
+        "message" : "This software license type $LICENSE_TYPE$",
+        "description" : "A software license is a legal instrument governing the usage or redistribution of software.",
+        "placeholders" : {
+            "license_type" : {
+                "content" : "$1",
+                "example" : "MIT"
+            }
+        }
+    },
+
+    "iridium" : {
+        "message" : "Cast in the name a God. Yet not guilty. We have come to team Iridum!",
+        "description" : "Catchphrase"
+    }
+}
+
