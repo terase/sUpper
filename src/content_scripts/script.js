@@ -9,7 +9,7 @@ jQuery.noConflict();
 		if(!$img)
 		    return;
         
-        var hasScroll = $(document).height() > $(window).height();
+        var hasScroll = $(document).height() > $win.height();
         
 		$('body').append($img);
 
